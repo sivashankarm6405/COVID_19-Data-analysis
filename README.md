@@ -138,6 +138,6 @@ Visuals include:
 ## 👤 Author
 
 **[Siva Shankar M]**
-SQL Portfolio Project —
+SQL Portfolio Project
 
 ---
