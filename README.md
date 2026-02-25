@@ -22,8 +22,6 @@ The final output is a **dashboard query** that shows every country's confirmed c
 - **Time periods:** January 2021, June 2021, December 2021
 - **Tables:** `covid_data`, `vaccination_data`
 
-> In production, replace sample data by loading real CSVs directly from the [Johns Hopkins GitHub repo](https://github.com/CSSEGISandData/COVID-19).
-
 ---
 
 ## 🧠 SQL Concepts Covered
